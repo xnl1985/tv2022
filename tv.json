@@ -1,10 +1,9 @@
-//更多免费稳定接口汇总请关注微信公众号：应用多多，搜索：appsduoduo
-//本接口只分享给小白免费体验,接口全部出自网络和大佬资源，如有冒犯请联系删除
+
 {
-"spider":"https://github.com/xnl1985/tv2022/blob/main/jar/0918.jar;md5;4FBFCC5F52D2C063F0EA4F0B9BCC04E4",
+"spider":"https://github.com/xnl1985/tv2022/blob/main/jar/0918.jar",
   "wallpaper":"https://bg.s.welsun.win/api",
   "lives": [{"group": "redirect","channels": [{"name": 
-  "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xMjg0ODU1NjQ2L3l5ZHN5cy8tL3Jhdy9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
+  "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL3hubDE5ODUvdHYyMDIyL2Jsb2IvbWFpbi9saXZlL3piLnR4dA=="]}]}],
 
   "sites": [
   {"key":"","name":"🌈关注公众号应用多多，获取VIP直播密码","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
