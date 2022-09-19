@@ -1,7 +1,7 @@
 { 
-  "spider":"https://github.com/xnl1985/tv2022/tree/main/jar/888.png;md5;7BF81EB29F54645E289066EF7071A76C",
-  "spider":"https://github.com/xnl1985/tv2022/tree/main/jar/cs.jar;md5;a37cc2d2ea049fdb3e6791f57cbd3ebe",
-  "spider":"https://github.com/xnl1985/tv2022/tree/main/jarjar/888.png;md5;7B65FF61E7B6887F975D9D83909361D5",
+  "spider":"https://github.com/xnl1985/tv2022/blob/main/jar/888.png;md5;7BF81EB29F54645E289066EF7071A76C",
+  "spider":"https://github.com/xnl1985/tv2022/blob/main/jar/cs.jar;md5;a37cc2d2ea049fdb3e6791f57cbd3ebe",
+  "spider":"https://github.com/xnl1985/tv2022/blob/main/jar/888.png;md5;7B65FF61E7B6887F975D9D83909361D5",
   "wallpaper": "https://github.com/xnl1985/tv2022/blob/main/00.jpg",
   "lives": [{"group": "redirect","channels": [{"name": 
   "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xMjg0ODU1NjQ2L2RpeS8tL3Jhdy9yb290L2xpdmUudHh0"]}]}],
