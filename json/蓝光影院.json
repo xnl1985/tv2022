@@ -11,7 +11,6 @@
 
   "shifouercijiequ": "1", //截取的列表数组是否需要二次截取，0不需要，1需要
   "jiequqian": "<div class=\"module-items", //不需要二次截取就填空
-  //"jiequhou": "<div id=\"page", //不需要二次截取就填空
   "jiequhou": "class=\"fixedGroup", //不需要二次截取就填空
   "jiequshuzuqian": "<a", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuhou": "alt=\"", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
@@ -21,6 +20,11 @@
   "biaotihou": "\"", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "item-note\">",
+  "fubiaotihou": "</div>",
+
 
   //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=双面赘婿",
@@ -54,7 +58,7 @@
   "daoyanhou": "</div>", //导演态后关键词
   "zhuyanqian": "主演：</span>", //主演前关键词
   "zhuyanhou": "</div>", //主演后关键词
-  "juqingqian": "introduction-content\"><p>", //剧情前关键词
+  "juqingqian": "<p>", //剧情前关键词
   "juqinghou": "</p>", //剧情后关键词
 
   "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
@@ -65,5 +69,5 @@
   "bfbiaotiqian": "span>", //播放剧集标题前关键词
   "bfbiaotihou": "</span", //状播放剧集标题后关键词
   "bflianjieqian": "href=\"", //播放剧集链接前关键词
-  "bflianjiehou": "\""
-} //播放剧集链接后关键词
+  "bflianjiehou": "\"" //播放剧集链接后关键词
+} 
