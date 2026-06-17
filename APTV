@@ -1,0 +1,57 @@
+[规则]
+# 自定义IPTV站点
+DOMAIN-SUFFIX,world-protv.club,Proxy
+
+主流CDN
+DOMAIN-SUFFIX,cloudfront.net,Proxy
+DOMAIN-SUFFIX,akamaized.net,Proxy
+DOMAIN-SUFFIX,akamaihd.net,Proxy
+DOMAIN-SUFFIX,edgekey.net,Proxy
+DOMAIN-SUFFIX,edgesuite.net,Proxy
+DOMAIN-SUFFIX,fastly.net,Proxy
+DOMAIN-SUFFIX,llnwd.net,Proxy
+DOMAIN-SUFFIX,edgecastcdn.net,Proxy
+DOMAIN-SUFFIX,azureedge.net,Proxy
+DOMAIN-SUFFIX,cloudflare.com,Proxy
+
+# IPTV/媒体CDN
+DOMAIN-SUFFIX,livecdn.io,Proxy
+DOMAIN-SUFFIX,warnermediacdn.com,Proxy
+DOMAIN-SUFFIX,amagi.tv,Proxy
+DOMAIN-SUFFIX,transmit.live,Proxy
+DOMAIN-SUFFIX,thehlive.com,Proxy
+
+# 快速电视
+DOMAIN-SUFFIX,roku.com,Proxy
+DOMAIN-SUFFIX,pluto.tv,代理
+
+# 媒体集团
+域名后缀，nbcuni.com，代理
+域名后缀，amdvids.com，代理
+
+# AWS媒体节点
+域名，mediatailor.us-west-2.amazonaws.com，代理
+域名，mediatailor.us-east-1.amazonaws.com，代理
+
+# 静态资源CDN
+DOMAIN-SUFFIX,githubassets.com,Proxy
+DOMAIN-SUFFIX,githubusercontent.com,Proxy
+DOMAIN-SUFFIX,jsdelivr.net,Proxy
+DOMAIN-SUFFIX,imgix.net,Proxy
+DOMAIN-SUFFIX,imagekit.io,Proxy
+DOMAIN-SUFFIX,cloudinary.com,Proxy
+DOMAIN-SUFFIX,mux.com,Proxy
+DOMAIN-SUFFIX,mux.video,Proxy
+DOMAIN-SUFFIX,brightcove.net,Proxy
+DOMAIN-SUFFIX,jwpcdn.com,Proxy
+
+# IPTV配套服务
+DOMAIN-SUFFIX,rocketdns.info,Proxy
+DOMAIN-SUFFIX,plex.tv,Proxy
+
+# 海外新闻媒体
+DOMAIN-SUFFIX,fox.com,Proxy
+DOMAIN-SUFFIX,foxnews.com,Proxy
+DOMAIN-SUFFIX,cnn.com,Proxy
+DOMAIN-SUFFIX,cbsnews.com,Proxy
+DOMAIN-SUFFIX,abcnews.go.com,Proxy
